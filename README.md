@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am young senior software developer from [Russia, Kaluga](https://en.wikipedia.org/wiki/Kaluga)  
+Currently working in [Openland](https://openland.com)  
+Node.JS [clubhouse-api](https://github.com/Seia-Soto/clubhouse-api) library maintainer  
+  
+Feel free to ask me about everything related with Node.JS, backend and typescript
 
 <!--
 **mrmld/mrmld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
