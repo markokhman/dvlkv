@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am young senior software developer from [Russia, Kaluga](https://en.wikipedia.org/wiki/Kaluga)  
-Currently working in [Openland](https://openland.com)  
+Currently working in [Edudo](https://edudo.app)  
 Javascript [clubhouse-api](https://github.com/Seia-Soto/clubhouse-api) library maintainer  
   
 Feel free to ask me about everything related with Node.JS, backend and typescript
