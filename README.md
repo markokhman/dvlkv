@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am young senior software developer from [Cyprus, Limassol](https://en.wikipedia.org/wiki/Limassol)
-Currently working in [TonWhales](https://edudo.app)  
+I am young senior software developer from [Cyprus, Limassol](https://en.wikipedia.org/wiki/Limassol)  
+Currently working at [TonWhales](https://tonwhales.com)  
 
 
 <!--
