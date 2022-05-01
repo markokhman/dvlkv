@@ -1,11 +1,10 @@
 ### Hi there 👋
-I am young senior software developer from [Russia, Kaluga](https://en.wikipedia.org/wiki/Kaluga)  
-Currently working in [Edudo](https://edudo.app)  
-  
-Feel free to ask me about everything related with Node.JS, backend and typescript
+I am young senior software developer from [Cyprus, Limassol](https://en.wikipedia.org/wiki/Limassol)
+Currently working in [TonWhales](https://edudo.app)  
+
 
 <!--
-**mrmld/mrmld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dvlkv/dvlkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
