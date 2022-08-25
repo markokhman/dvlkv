@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am young senior software developer from [Cyprus, Limassol](https://en.wikipedia.org/wiki/Limassol)  
+I am young senior software developer.
 Currently working at [Whales Corp.](https://tonwhales.com)  
 
 
