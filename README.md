@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am young senior software developer.
-Currently working at [Whales Corp.](https://tonwhales.com)  
+Currently working as Chief Technical Officer at [Whales Corp.](https://tonwhales.com)  
 
 
 <!--
